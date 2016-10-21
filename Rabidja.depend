@@ -1,0 +1,1030 @@
+# depslib dependency file v1.0
+1381947332 source:e:\temp prog\rabidja\main.c
+	<SDL2/SDL.h>
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\begin_code.h
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\close_code.h
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1382303209 source:e:\programmation 3\rabidja\draw.c
+	"draw.h"
+
+1382296038 e:\programmation 3\rabidja\draw.h
+	"structs.h"
+
+1382370027 e:\programmation 3\rabidja\structs.h
+	"defs.h"
+
+1382294087 e:\programmation 3\rabidja\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+
+1382370027 source:e:\programmation 3\rabidja\input.c
+	"input.h"
+
+1382295980 e:\programmation 3\rabidja\input.h
+	"structs.h"
+
+1382370027 source:e:\programmation 3\rabidja\main.c
+	"main.h"
+
+1382370027 e:\programmation 3\rabidja\main.h
+	"structs.h"
+
+1382303250 source:e:\programmation 3\rabidja\init.c
+	"init.h"
+
+1382295893 e:\programmation 3\rabidja\init.h
+	"structs.h"
+
+1382299609 source:c:\programmation 3\rabidja\draw.c
+	"draw.h"
+
+1382292438 c:\programmation 3\rabidja\draw.h
+	"structs.h"
+
+1382894385 c:\programmation 3\rabidja\structs.h
+	"defs.h"
+
+1382290487 c:\programmation 3\rabidja\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+
+1382374638 source:c:\programmation 3\rabidja\init.c
+	"init.h"
+
+1382292293 c:\programmation 3\rabidja\init.h
+	"structs.h"
+
+1382366427 source:c:\programmation 3\rabidja\input.c
+	"input.h"
+
+1382292380 c:\programmation 3\rabidja\input.h
+	"structs.h"
+
+1382366427 source:c:\programmation 3\rabidja\main.c
+	"main.h"
+
+1382622504 c:\programmation 3\rabidja\main.h
+	"structs.h"
+
+1396047339 source:d:\programmation\level editor sdl 2\draw.c
+	"draw.h"
+
+1395846181 d:\programmation\level editor sdl 2\draw.h
+	"structs.h"
+
+1395851746 d:\programmation\level editor sdl 2\structs.h
+	"defs.h"
+
+1395851057 d:\programmation\level editor sdl 2\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h >
+
+1451768294 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1475591549 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1395851838 source:d:\programmation\level editor sdl 2\init.c
+	"init.h"
+
+1391261337 d:\programmation\level editor sdl 2\init.h
+	"structs.h"
+
+1396047339 source:d:\programmation\level editor sdl 2\input.c
+	"input.h"
+
+1395850987 d:\programmation\level editor sdl 2\input.h
+	"structs.h"
+
+1395853802 source:d:\programmation\level editor sdl 2\main.c
+	"main.h"
+
+1391198846 d:\programmation\level editor sdl 2\main.h
+	"structs.h"
+
+1395859845 source:d:\programmation\level editor sdl 2\font.c
+	"font.h"
+
+1391261305 d:\programmation\level editor sdl 2\font.h
+	"structs.h"
+
+1395842318 source:d:\programmation\level editor sdl 2\map.c
+	"map.h"
+
+1391261371 d:\programmation\level editor sdl 2\map.h
+	"structs.h"
+
+1395498636 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\draw.c
+	"draw.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\draw.h
+	"structs.h"
+
+1395610953 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1396112629 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1395660785 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\init.c
+	"init.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\init.h
+	"structs.h"
+
+1394904857 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\input.c
+	"input.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\input.h
+	"structs.h"
+
+1376160144 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_ttf.h
+	"SDL.h"
+	"begin_code.h"
+	"close_code.h"
+
+1376160026 c:\sdl2\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1394904857 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\animation.c
+	"animation.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\animation.h
+	"structs.h"
+
+1394995746 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\fireballs.c
+	"fireballs.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\fireballs.h
+	"structs.h"
+
+1395859886 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\font.c
+	"font.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\font.h
+	"structs.h"
+
+1395858883 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\main.c
+	"main.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\main.h
+	"structs.h"
+
+1396098820 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\map.c
+	"map.h"
+
+1396097686 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\map.h
+	"structs.h"
+
+1396098996 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\menu.c
+	"menu.h"
+
+1395611169 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\menu.h
+	"structs.h"
+
+1396098820 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\monster.c
+	"monster.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\monster.h
+	"structs.h"
+
+1394904857 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\plateformes.c
+	"plateformes.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\plateformes.h
+	"structs.h"
+
+1395950964 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\player.c
+	"player.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\player.h
+	"structs.h"
+
+1394904857 source:d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\sounds.c
+	"sounds.h"
+
+1394904857 d:\programmation\site\rabidja sdl 2 cb - chap 32\rabidja sdl 2 cb\sounds.h
+	"structs.h"
+
+1394908457 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\animation.c
+	"animation.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\animation.h
+	"structs.h"
+
+1405879174 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1405884429 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1395502236 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\draw.c
+	"draw.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\draw.h
+	"structs.h"
+
+1394999346 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\fireballs.c
+	"fireballs.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\fireballs.h
+	"structs.h"
+
+1395863486 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\font.c
+	"font.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\font.h
+	"structs.h"
+
+1405940905 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\input.c
+	"input.h"
+
+1405940265 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\input.h
+	"structs.h"
+
+1405945813 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\main.c
+	"main.h"
+
+1405879535 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\main.h
+	"structs.h"
+
+1396102420 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\map.c
+	"map.h"
+
+1396101286 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\map.h
+	"structs.h"
+
+1405939425 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\menu.c
+	"menu.h"
+
+1405876507 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\menu.h
+	"structs.h"
+
+1396102420 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\monster.c
+	"monster.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\monster.h
+	"structs.h"
+
+1394908457 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\plateformes.c
+	"plateformes.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\plateformes.h
+	"structs.h"
+
+1395954564 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\player.c
+	"player.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\player.h
+	"structs.h"
+
+1394908457 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\sounds.c
+	"sounds.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\sounds.h
+	"structs.h"
+
+1405939425 source:e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\init.c
+	"init.h"
+
+1394908457 e:\programmations\club site\rabidja 2\rabidja sdl 2 cb\init.h
+	"structs.h"
+
+1394908457 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\animation.c
+	"animation.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\animation.h
+	"structs.h"
+
+1408821391 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1405884429 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1408821391 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\draw.c
+	"draw.h"
+
+1408821391 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\draw.h
+	"structs.h"
+
+1394999346 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\fireballs.c
+	"fireballs.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\fireballs.h
+	"structs.h"
+
+1395863486 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\font.c
+	"font.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\font.h
+	"structs.h"
+
+1408821391 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\init.c
+	"init.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\init.h
+	"structs.h"
+
+1405945869 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\input.c
+	"input.h"
+
+1405940265 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\input.h
+	"structs.h"
+
+1405945813 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\main.c
+	"main.h"
+
+1408821391 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\main.h
+	"structs.h"
+
+1405974755 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\map.c
+	"map.h"
+
+1396101286 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\map.h
+	"structs.h"
+
+1408821391 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\monster.c
+	"monster.h"
+
+1408821391 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\monster.h
+	"structs.h"
+
+1394908457 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\plateformes.c
+	"plateformes.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\plateformes.h
+	"structs.h"
+
+1395954564 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\player.c
+	"player.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\player.h
+	"structs.h"
+
+1394908457 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\sounds.c
+	"sounds.h"
+
+1394908457 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\sounds.h
+	"structs.h"
+
+1405974313 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\menu.c
+	"menu.h"
+
+1405876507 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\menu.h
+	"structs.h"
+
+1408821391 source:e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\explosions.c
+	"explosions.h"
+
+1408821391 e:\programmations\big tuto aron 2\rabidja 2\rabidja sdl 2 cb\explosions.h
+	"structs.h"
+
+1411319714 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\sounds.c
+	"prototypes.h"
+
+1411825479 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\explosions.c
+	"prototypes.h"
+
+1411824303 e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1411824930 e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1411836311 e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1411826903 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\fireballs.c
+	"prototypes.h"
+
+1411319714 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\font.c
+	"prototypes.h"
+
+1411839626 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1411319714 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1411825230 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1411839208 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\map.c
+	"prototypes.h"
+
+1411670075 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\monster.c
+	"prototypes.h"
+
+1411827007 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\plateformes.c
+	"prototypes.h"
+
+1411835944 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\player.c
+	"prototypes.h"
+
+1411839309 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1411839626 source:e:\programmations\big tuto aron 2\rabidja 2 big tuto 2\rabidja sdl 2 cb\menu.c
+	"prototypes.h"
+
+1411916916 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1411916967 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1411916173 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1411916402 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1411916751 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1411916349 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 4\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 5\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1411930762 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 5\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1411930244 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 5\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1411916402 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 5\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1412427630 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1412427383 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1412427383 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1411930244 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1412427512 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1412427383 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 6\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1412782485 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1412782428 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1412782428 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1412782716 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\map.c
+	"prototypes.h"
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 8\rabidja sdl 2 cb\player.c
+	"prototypes.h"
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1413116931 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1412782428 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1413116816 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1412782716 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\map.c
+	"prototypes.h"
+
+1413116816 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1413116816 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 9\rabidja sdl 2 cb\player.c
+	"prototypes.h"
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1413304468 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1412782428 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1413304468 e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<math.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+
+1412782428 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1411916173 source:e:\programmations\big tuto aron 2\big tuto sdl 2 new chapters\chapitre 10\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1477049569 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\draw.c
+	"prototypes.h"
+
+1477045305 c:\users\franck\desktop\iut\rabidja sdl 2 cb\prototypes.h
+	"structs.h"
+
+1476952070 c:\users\franck\desktop\iut\rabidja sdl 2 cb\structs.h
+	"defs.h"
+
+1477045092 c:\users\franck\desktop\iut\rabidja sdl 2 cb\defs.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<SDL2/SDL_ttf.h>
+	<SDL2/SDL_mixer.h>
+	<time.h>
+	<windows.h>
+	<pthread.h>
+	<winsock2.h>
+
+1477040652 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\init.c
+	"prototypes.h"
+
+1476967889 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\input.c
+	"prototypes.h"
+
+1477049480 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\main.c
+	"prototypes.h"
+
+1477047334 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\player.c
+	"prototypes.h"
+
+1476610442 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\map.c
+	"prototypes.h"
+
+1476192346 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\attack.c
+
+1476259963 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\monter.c
+	"prototypes.h"
+
+1476260921 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\shuriken.c
+	"prototypes.h"
+
+1476555128 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\sword.c
+	"prototypes.h"
+
+1477046520 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\menu.c
+	"prototypes.h"
+
+1476258784 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\font.c
+	"prototypes.h"
+
+1476274282 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\magic.c
+	"prototypes.h"
+
+1477049517 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\ennemy.c
+	"prototypes.h"
+
+1477039166 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\socket.c
+	"prototypes.h"
+
+1477049100 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\spell.c
+	"prototypes.h"
+
+1476974665 source:c:\users\franck\desktop\iut\rabidja sdl 2 cb\gameobject.c
+	"prototypes.h"
+
